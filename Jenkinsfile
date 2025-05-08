@@ -25,5 +25,5 @@ pipeline {
                 build job: 'sampledeployjob'
             }
         }
-    }
+    }
 }
